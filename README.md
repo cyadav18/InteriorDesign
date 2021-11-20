@@ -1,4 +1,4 @@
 # InteriorDesign
 we are optimising the prosess 
 
-Opern Ddraw.io for the roles and resopnsibilities
+Opern Roles.io for the roles and resopnsibilities
